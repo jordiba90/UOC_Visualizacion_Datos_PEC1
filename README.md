@@ -1,3 +1,4 @@
+
 # UOC_Visualizacion_Datos_PEC1
 
 Descripción y enunciado
@@ -57,4 +58,3 @@ Cada una de las tres presentaciones deben tener una duración de unos 2-3 minuto
 Recordad que en la  Biblioteca también tenéis acceso al recurso Statista y en el espacio de recursos de ciencia de datos de la UOC también podréis encontrar otras fuentes de datos:
 
 - https://datascience.recursos.uoc.edu/?filter=.cdades 
-
